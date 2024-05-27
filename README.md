@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/purescript-run-external-state](https://github.com/prescientmoon/purescript-run-external-state) 🚧
 # External state
 
 Alternative representation for `State`, allowing for some new interpreters,
